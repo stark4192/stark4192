@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @stark4192
-- 👀 I’m interested in data management
-- 🌱 I’m currently learning dbms
-- 💞️ I’m looking to collaborate on sql
-
-- I lost in technical world, will you save me pleaseeeeee.......
+- 👋 Hi, I’m Monsoon Maurya
 
 <!---
 stark4192/stark4192 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
